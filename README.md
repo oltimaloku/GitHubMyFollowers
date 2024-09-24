@@ -1,6 +1,6 @@
 An iOS app I built that allows you to track and favourite your GitHub followers. I built this app to learn the basics of UIKit.
 
-This project is an iOS app built with UIKit that fetches and displays GitHub followers using the GitHub API. It also allows users to favorite followers for easy access later. The app follows the MVC (Model-View-Controller) pattern to keep the code organized and maintainable.
+This project is an iOS app built with UIKit that fetches and displays GitHub followers using the GitHub API. It supports search and it also allows users to favorite followers for easy access later. The app follows the MVC (Model-View-Controller) pattern to keep the code organized and maintainable.
 
 ### What I Learned
 
